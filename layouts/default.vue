@@ -17,7 +17,7 @@
         </v-tabs>
         <v-tabs-items class="card" v-model="tab" v-show="tab == 'all'">
           <Card
-            v-for="(text, key) in texts"
+            v-for="(text, key) in texts1"
             :key="key"
             :name="text.name"
             :image_link="text.image_link"
@@ -30,7 +30,7 @@
         </v-tabs-items>
         <v-tabs-items class="card" v-model="tab" v-show="tab != 'all'">
           <Card
-            v-for="(text, key) in texts"
+            v-for="(text, key) in texts2"
             :key="key"
             :name="text.name"
             :image_link="text.image_link"
@@ -60,7 +60,8 @@
 </template>
 
 <script>
-import text_json from "../static/text";
+import text1_json from "../static/text1";
+import text2_json from "../static/text2";
 
 export default {
   data() {
@@ -85,7 +86,8 @@ export default {
       rightDrawer: false,
       title: "Vuetify.js",
       sliderValue: 375,
-      texts: text_json,
+      texts1: text1_json,
+      texts2: text2_json,
       tab: "",
       all: "all"
     };

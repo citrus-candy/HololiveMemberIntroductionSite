@@ -32,12 +32,12 @@
     "grade": "gen0"
   },
   {
-    "name": "白上フブキ",
-    "image_link": "https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_3000,w_2000,f_auto,q_auto/1369026/265098_911553.png",
-    "description": "「こんばんきーつね！白上フブキです！」<br>白髪ケモミミの女子高生。恥ずかしがり屋であり、おとなしめな性格だけれど、実は人と話すのが好きで、構ってもらえると喜ぶ。",
-    "youtube_link": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-    "twitter_link": "https://twitter.com/shirakamifubuki",
-    "grade": "gen1"
+    "name": "星街すいせい",
+    "image_link": "https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_3000,w_2000,f_auto,q_auto/1369026/718827_142512.png",
+    "description": "「彗星の如く現れたスターの原石！アイドルVTuberの星街すいせいです！」<br>歌とアイドルをこよなく愛する永遠の18歳のアイドルVTuber。<br>いつか武道館でライブをすることを夢見て活動している。",
+    "youtube_link": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
+    "twitter_link": "https://twitter.com/suisei_hosimati",
+    "grade": "gen0"
   },
   {
     "name": "白上フブキ",
@@ -45,7 +45,7 @@
     "description": "「こんばんきーつね！白上フブキです！」<br>白髪ケモミミの女子高生。恥ずかしがり屋であり、おとなしめな性格だけれど、実は人と話すのが好きで、構ってもらえると喜ぶ。",
     "youtube_link": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
     "twitter_link": "https://twitter.com/shirakamifubuki",
-    "grade": "gamers"
+    "grade": "gen1"
   },
   {
     "name": "夏色まつり",
@@ -182,14 +182,6 @@
     "youtube_link": "https://www.youtube.com/channel/UCl_gCybOJRIgOXw6Qb4qJzQ",
     "twitter_link": "https://twitter.com/uruharushia",
     "grade": "gen3"
-  },
-  {
-    "name": "星街すいせい",
-    "image_link": "https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_3000,w_2000,f_auto,q_auto/1369026/718827_142512.png",
-    "description": "「彗星の如く現れたスターの原石！アイドルVTuberの星街すいせいです！」<br>歌とアイドルをこよなく愛する永遠の18歳のアイドルVTuber。<br>いつか武道館でライブをすることを夢見て活動している。",
-    "youtube_link": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-    "twitter_link": "https://twitter.com/suisei_hosimati",
-    "grade": "gen0"
   },
   {
     "name": "天音かなた",
